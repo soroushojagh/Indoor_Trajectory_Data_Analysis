@@ -1,0 +1,20 @@
+{
+  "name": "indoor-simulator-cli",
+  "version": "1.0.0",
+  "description": "This simulator is developed for the pupose of generating synthesized indoor movement trajectories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "s": "./bin/index.js"
+  },
+  "author": "Soroush Ojagh",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "gps-time": "^1.0.6",
+    "moment": "^2.27.0",
+    "yargs": "^15.4.1"
+  }
+}
