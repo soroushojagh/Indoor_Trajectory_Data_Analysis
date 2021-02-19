@@ -1,4 +1,4 @@
-# A People-to_People and People-to-Place COVID-19 Contact Tracing System Based on OGC IndoorGML
+# A People-to-People and People-to-Place COVID-19 Contact Tracing System Based on OGC IndoorGML
 
 This GitHub repository includes indoor movement trajectory of 20,000 users :walking: in the CCIT building located at the Unversity of Calgary :post_office: (Data folder).
 
